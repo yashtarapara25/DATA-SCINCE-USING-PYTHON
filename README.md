@@ -21,3 +21,4 @@ To run the notebooks:
 1. Clone this repo or download ZIP
 2. Install Jupyter Notebook or use Google Colab
 3. Open the `.ipynb` files and run cell-by-cell
+![Visitor Count](https://komarev.com/ghpvc/?username=yashtarapara25&style=flat-square)
